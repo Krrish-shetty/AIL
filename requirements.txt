@@ -1,0 +1,13 @@
+langchain
+transformers
+sentence-transformers
+accelerate
+faiss-cpu
+streamlit
+langchain-together
+langcain-community
+einops
+PyPDF2
+reportlab
+Pillow
+python-dotenv
